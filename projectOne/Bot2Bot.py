@@ -1,4 +1,4 @@
-#Complete Example for Your Bot-to-Bot System FastAPI + PyTorch
+#Complete Example for Bot-to-Bot System FastAPI + PyTorch
 import anthropic
 import asyncio
 import os
